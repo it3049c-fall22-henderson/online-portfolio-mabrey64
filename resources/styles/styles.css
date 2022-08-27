@@ -1,0 +1,21 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+    float: left;
+  }
+
+.container {text-align: justify}
+
+.section {text-align: justify}
+
+ul {text-align: justify;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto; }
+
+ol {text-align: justify;
+    list-style-position: inside;
+    margin-left: auto;
+    margin-right: auto; }
